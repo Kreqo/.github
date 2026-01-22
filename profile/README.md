@@ -1,4 +1,5 @@
 ## Kreqo
+Accelerating human productivity through open innovation.
 
 <!--
 
